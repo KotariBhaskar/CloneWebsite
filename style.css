@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#maindiv{
+    padding: 40px;
+    background-color:#eeebec;
+}
+nav{
+   display: flex; 
+}
+.left li a{
+    text-decoration: none;
+}
+.right{
+    margin-left: 600px;
+    padding-top: 30px;
+}
+.right li a{
+    list-style: none;
+    text-decoration: none;
+    color: brown;
+}
+.right li{
+    display: inline;
+    padding: 20px;
+    margin-right: 10px;
+    font-size:20px ;
+}
+#mid{
+    background-color: #f8f8f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#para{
+    height: 250px;
+    background-color: #eae7e8;
+}
+#new{
+    padding: 10px 0px 20px 300px;
+}
+#the{
+    padding: 10px 0px 20px 300px;
+    color: red;
+}
+#this{
+    padding: 10px 0px 20px 300px;
+}
+p>a{
+    color: black;
+}
+p img{
+    margin-left: 600px;
+    margin-top: -200px;
+    height: 200px;
+}
+#pro{
+    display: flex;
+    text-decoration: none;
+}
+#product{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 250px;
+    background-color: #c8c10d;
+}
+#pro li a{
+    color: white;
+    display: inline;
+}
+#pro li a img{
+    padding: 100px 100px 10px 100px;
+}
+.inul li{
+    font-size: 20px;
+    color: white;
+}
+#foot{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #cb3362;
+    height: 400px;
+}
+#foot ul{
+    display: flex;
+}
+#foot ul li a img{
+    height: 100px;
+    width: 100px;
+    padding-right: 20px;
+}
+#footp{
+    color: white;
+}
+.ani a:hover{
+    color: #c8c10d;
+}
+.right li a{
+    color: grey;
+}
+#about{
+    color: white;
+    display: flex;
+    background-color: #c8c10d;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#i1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:#eeebec ;
+}
+#main1{
+    display: flex;
+}
+#be{
+    padding: 40px 40px 0px 40px;
+    margin: 20px 20px 100px 300px;
+    background-color:#eeebec ;
+}
+.pink{
+    color: rgb(237, 10, 123);
+}
+#be ul li{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:20px ;
+}
+#be h1{
+    font-size:25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#our{
+    margin: 20px 300px 100px 20px;
+    background-color:white ;
+}
+.web{
+    padding: 32px 0px 32px 0px;
+}
+#des{
+    padding-top:20px ;
+}
+#entire{
+    display: inline;
+}
+#lii{
+    display: inline;
+}
+#lii li img{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+#lii li div {
+    width: 500px;
+    margin-top: -190px;
+    margin-left: 550px;
+}
+#lii li div p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#ull ul li{
+    margin: 0px 0px 30px 0px;
+}
+#btn2{
+    transition-duration: 0.8s;
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    color: black;
+    border: 2px solid rgb(255, 0, 43);
+}
+#btn2:hover{
+    background-color: #c8c10d;
+    color: white;
+    border: none;
+}
+hr{
+    margin-top: 10px;
+    margin-bottom:10px;
+    width: 400px;
+}
+#side{
+    margin: 100px 10px 10px 10px;
+    padding: 30px 30px 30px 30px;
+    height: 500px;
+    width: 200px;
+    background-color: #eeebec ;
+    text-align: center;
+}
+#ull{
+    display: flex;
+}
+#side a button{
+    margin: 20px 0px 20px;
+}
+#form1{
+    margin-left: 300px;
+}
+form input{
+    height: 20px;
+    width: 445px;
+    display: block;
+}
+.inp{
+    margin: 20px 20px 20px 0px;
+    height: 20px;
+
+}
+#form1 form a button{
+    margin: 20px 20px 20px 0px;
+}
+#form1{
+    display: flex;
+}
+#ind h1,p{
+    padding: 20px 20px 20px 20px;
+}
+#ind{
+    height: fit-content;
+    width: 300px;
+    background-color: #eeebec;
+    margin-left:500px ;
+    margin-top: -420px;
+}
